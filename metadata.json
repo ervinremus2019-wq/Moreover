@@ -1,0 +1,8 @@
+{
+  "name": "NovaNode AI Workspace",
+  "description": "A high-performance, AI-driven collaborative workspace featuring real-time transcription, intelligent note-taking, and semantic search powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
